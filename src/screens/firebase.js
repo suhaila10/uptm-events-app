@@ -7,13 +7,13 @@ import { getStorage } from 'firebase/storage';
 
 // Same config as your web app
 const firebaseConfig = {
-  apiKey: "AIzaSyBlWoHvzvZTKktBxaeCBOEn8b04bGPxSxQ",
-  authDomain: "uptm-digital-event-535bb.firebaseapp.com",
-  projectId: "uptm-digital-event-535bb",
-  storageBucket: "uptm-digital-event-535bb.firebasestorage.app",
-  messagingSenderId: "580334388654",
-  appId: "1:580334388654:web:a067571894eb566140743f",
-  measurementId: "G-GJ1X4WYPLL"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
